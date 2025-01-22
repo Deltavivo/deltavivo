@@ -17,8 +17,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 )&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
-![Scala](https://img.shields.io/badge/Scala-F2F4F9?style=for-the-badge&logo=Scala&logoColor=red
-)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=Python&logoColor=white
 )&nbsp;
 ![PySpark](https://img.shields.io/badge/PySpark-F2F4F9?style=for-the-badge&logo=PySpark&logoColor=black
